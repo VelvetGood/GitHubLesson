@@ -65,7 +65,7 @@ penguin-analysis/
 1. Open `run_analysis_SOLUTIONS.R` in RStudio
 2. Install required packages: `tidyverse`, `janitor`, `palmerpenguins`, `patchwork`
 3. Run the script from top to bottom
-4. Outputs are saved to the `figures/` folder
+4. your mum 
 
 ## Data Source
 
